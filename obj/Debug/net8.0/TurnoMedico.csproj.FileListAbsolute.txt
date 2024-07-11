@@ -1,0 +1,14 @@
+C:\POO\TurnoMedico\obj\Debug\net8.0\TurnoMedico.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\TurnoMedico\obj\Debug\net8.0\TurnoMedico.AssemblyInfoInputs.cache
+C:\POO\TurnoMedico\obj\Debug\net8.0\TurnoMedico.AssemblyInfo.cs
+C:\POO\TurnoMedico\obj\Debug\net8.0\TurnoMedico.csproj.CoreCompileInputs.cache
+C:\POO\TurnoMedico\bin\Debug\net8.0\TurnoMedico.exe
+C:\POO\TurnoMedico\bin\Debug\net8.0\TurnoMedico.deps.json
+C:\POO\TurnoMedico\bin\Debug\net8.0\TurnoMedico.runtimeconfig.json
+C:\POO\TurnoMedico\bin\Debug\net8.0\TurnoMedico.dll
+C:\POO\TurnoMedico\bin\Debug\net8.0\TurnoMedico.pdb
+C:\POO\TurnoMedico\obj\Debug\net8.0\TurnoMedico.dll
+C:\POO\TurnoMedico\obj\Debug\net8.0\refint\TurnoMedico.dll
+C:\POO\TurnoMedico\obj\Debug\net8.0\TurnoMedico.pdb
+C:\POO\TurnoMedico\obj\Debug\net8.0\TurnoMedico.genruntimeconfig.cache
+C:\POO\TurnoMedico\obj\Debug\net8.0\ref\TurnoMedico.dll
